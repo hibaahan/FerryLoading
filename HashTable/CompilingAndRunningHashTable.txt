@@ -1,0 +1,132 @@
+Lucias-Air-5:SolutionHash lucia$ javac Main.java
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Lucias-Air-5:SolutionHash lucia$ java Main <input1.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+Lucias-Air-5:SolutionHash lucia$ java Main <input2.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+
+6
+port
+starboard
+port
+starboard
+port
+starboard
+Lucias-Air-5:SolutionHash lucia$ java Main <input3.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+
+0
+Lucias-Air-5:SolutionHash lucia$ java Main <input4.txt
+6
+port
+starboard
+port
+Lucias-Air-5:HashTable lucia$ javac Main.java
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Lucias-Air-5:HashTable lucia$ java Main < input1.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+Lucias-Air-5:HashTable lucia$ java Main < input2.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+
+6
+port
+starboard
+port
+starboard
+port
+starboard
+Lucias-Air-5:HashTable lucia$ java Main < input3.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+
+0
+Lucias-Air-5:HashTable lucia$ java Main < input4.txt
+6
+port
+starboard
+port
+starboard
+port
+starboard
+
+0
+
+0
+
+2
+port
+starboard
+
+7
+port
+port
+port
+port
+port
+port
+starboard
+Lucias-Air-5:HashTable lucia$ java Main < input5.txt
+20
+port
+port
+port
+port
+port
+port
+port
+port
+port
+port
+starboard
+starboard
+starboard
+starboard
+starboard
+starboard
+starboard
+starboard
+starboard
+starboard
+Lucias-Air-5:HashTable lucia$ java Main < input1.txt >output1.txt
+Lucias-Air-5:HashTable lucia$ java Main < input2.txt >output2.txt
+Lucias-Air-5:HashTable lucia$ java Main < input3.txt >output3.txt
+Lucias-Air-5:HashTable lucia$ java Main < input4.txt >output4.txt
+Lucias-Air-5:HashTable lucia$ java Main < input5.txt >output5.txt
+Lucias-Air-5:HashTable lucia$ 
